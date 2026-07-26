@@ -135,5 +135,4 @@ These Terms will be governed by the laws selected by the app owner before public
 
 If you have questions about these Terms, contact us at:
 
-[Support Email To Be Added]
-
+spdemergencymail@gmail.com
