@@ -13,6 +13,7 @@ This policy explains what information the app handles, how it is used, and the c
 | Account | No account is required for core use |
 | Storage | Most profile and workout data stays on your device |
 | Purchases | Subscriptions are handled by Apple and our subscription provider |
+| Analytics | Anonymous usage and crash data help us improve reliability and product flows |
 | Sharing | We do not sell personal information |
 | Tracking | The app is not designed to track you across other companies’ apps or websites |
 
@@ -23,6 +24,8 @@ Depending on how you use the app, we may handle:
 - onboarding answers such as age range, height, weight, target weight, goal, motivation, workout style, experience, limitations, body focus, Pilates level, session length, weekly frequency, and progress focus;
 - workout progress, completed sessions, skipped sessions, and in-progress workout checkpoints;
 - subscription and purchase status, including whether Pro access is active or restored;
+- anonymous product events such as onboarding progress, screens opened, plans and exercises viewed, workouts started or completed, paywall entry source, and purchase or restore outcomes;
+- crash diagnostics such as app version, operating-system version, device type, stack traces, and technical context needed to investigate a failure;
 - support messages you send to us;
 - device and app information needed to run the app, show subscription status, and troubleshoot problems.
 
@@ -35,7 +38,8 @@ We use information to:
 - show the correct locked or unlocked workout content;
 - process purchases, renewals, and restorations;
 - respond to support requests;
-- keep the app secure and functioning properly.
+- keep the app secure and functioning properly;
+- understand which product flows are useful, measure workout and subscription funnels, evaluate in-app feature experiments, and diagnose crashes.
 
 ## Local storage
 
@@ -68,11 +72,15 @@ We may share information only when needed to:
 
 Any service provider we use is expected to handle data only for the work we ask them to do.
 
-## Analytics, tracking, and advertising
+## Analytics and product experiments
 
 This app is not designed to track you across other companies’ apps or websites.
 
-If we add analytics, advertising, or similar services in the future, we will update this policy and any required app disclosures first.
+We use PostHog to process anonymous product analytics, feature-flag assignments, experiment exposures, and crash diagnostics. PostHog may receive an app-generated anonymous identifier together with device, app, usage, and diagnostic information.
+
+We do not send your age, height, weight, target weight, movement limitations, body-focus selections, or other onboarding answers to PostHog. Session replay, automatic element-interaction recording, and rage-click detection are disabled.
+
+We use this information to improve onboarding, workout completion, subscription presentation, and app reliability. We do not use PostHog for cross-app advertising or tracking.
 
 ## Retention
 
@@ -81,6 +89,8 @@ We keep local workout and profile data on your device until you remove it.
 Support messages may be retained for a reasonable period so we can follow up and keep basic records of our communications.
 
 Subscription and purchase-related records may be retained by Apple and our subscription provider according to their own policies and legal obligations.
+
+Analytics and crash information may be retained according to our PostHog project settings and legal obligations. We retain it only for as long as reasonably needed for product analysis, experiments, security, and troubleshooting.
 
 ## Your choices
 
@@ -97,7 +107,7 @@ This app is not intended for children under 13, or under the minimum age require
 
 ## Third-party services
 
-The app relies on third-party services such as Apple and our subscription provider to process purchases and subscription status.
+The app relies on third-party services including Apple and RevenueCat for purchases and subscription status, and PostHog for anonymous analytics, feature flags, experiments, and crash diagnostics.
 
 Those services have their own privacy practices and terms. We recommend reviewing them separately.
 

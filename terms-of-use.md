@@ -89,9 +89,13 @@ You are responsible for keeping your device and any backups secure.
 
 ## Third-party services
 
-The app relies on third-party services, including Apple services and our subscription provider, to process purchases and manage entitlement status.
+The app relies on third-party services:
 
-Those services are governed by their own terms and privacy practices.
+- Apple processes App Store downloads, purchases, renewals, refunds, and subscription management;
+- RevenueCat helps verify purchases and manage subscription entitlement status;
+- PostHog provides anonymous product analytics, feature-flag delivery, experiment measurement, and technical error diagnostics.
+
+These services are governed by their own terms and privacy practices. Our use of information is described in the app’s Privacy Policy.
 
 ## Prohibited conduct
 
@@ -129,7 +133,7 @@ We may suspend or terminate access if we reasonably believe you violated these T
 
 ## Governing law
 
-These Terms will be governed by the laws selected by the app owner before publication, without regard to conflict-of-law rules, except where local consumer law requires otherwise.
+These Terms are governed by applicable law. Nothing in these Terms limits any mandatory consumer rights or protections that apply where you live.
 
 ## Contact
 
