@@ -1,6 +1,6 @@
 # Terms of Use
 
-Effective date: July 26, 2026
+Effective date: July 28, 2026
 
 These Terms of Use govern your use of Pilates Weight Loss and any related services we provide through the app.
 
@@ -92,8 +92,7 @@ You are responsible for keeping your device and any backups secure.
 The app relies on third-party services:
 
 - Apple processes App Store downloads, purchases, renewals, refunds, and subscription management;
-- RevenueCat helps verify purchases and manage subscription entitlement status;
-- PostHog provides anonymous product analytics, feature-flag delivery, experiment measurement, and technical error diagnostics.
+- RevenueCat helps verify purchases and manage subscription entitlement status.
 
 These services are governed by their own terms and privacy practices. Our use of information is described in the app’s Privacy Policy.
 
