@@ -2,7 +2,7 @@
 
 Effective date: August 3, 2026
 
-Pilates Weight Loss is an offline-first Pilates app with optional Pro subscription access.
+Home Pilates is an offline-first Pilates app with optional Pro subscription access.
 
 This page explains how to get help with workouts, manage billing, restore purchases, and contact us about your data.
 
@@ -32,7 +32,7 @@ To manage, cancel, or change billing:
 1. Open iPhone Settings
 2. Tap your Apple ID name
 3. Tap Subscriptions
-4. Select Pilates Weight Loss / Pro
+4. Select Home Pilates / Pro
 
 Apple handles payment, renewals, and refunds. We do not receive your full payment card details.
 
@@ -49,7 +49,7 @@ Make sure you are signed into the same Apple ID used for the original purchase.
 
 ## Workouts and plans
 
-Pilates Weight Loss builds a schedule from your onboarding answers and stores progress on your device.
+Home Pilates builds a schedule from your onboarding answers and stores progress on your device.
 
 If a session will not start, video playback fails, or your plan looks wrong after you change preferences, email us with what you expected and what you saw. Include the session name when you can.
 

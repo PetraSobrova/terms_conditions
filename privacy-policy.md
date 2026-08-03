@@ -2,7 +2,7 @@
 
 Effective date: August 3, 2026
 
-Pilates Weight Loss provides guided exercise demonstrations, personalized workout planning, and workout tracking.
+Home Pilates provides guided exercise demonstrations, personalized workout planning, and workout tracking.
 
 This policy explains what information the app handles, how it is used, and the choices available to you.
 

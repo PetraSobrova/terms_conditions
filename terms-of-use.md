@@ -2,7 +2,7 @@
 
 Effective date: August 3, 2026
 
-These Terms of Use govern your use of Pilates Weight Loss and any related services we provide through the app.
+These Terms of Use govern your use of Home Pilates and any related services we provide through the app.
 
 By downloading, installing, accessing, or using the app, you agree to these Terms.
 
@@ -18,7 +18,7 @@ By downloading, installing, accessing, or using the app, you agree to these Term
 
 ## The service
 
-Pilates Weight Loss provides exercise demonstrations, workout plans, progress tracking, and related fitness tools.
+Home Pilates provides exercise demonstrations, workout plans, progress tracking, and related fitness tools.
 
 The app is intended for personal fitness and wellness use only.
 
