@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: July 28, 2026
+Effective date: August 3, 2026
 
 Pilates Weight Loss provides guided exercise demonstrations, personalized workout planning, and workout tracking.
 
@@ -21,7 +21,7 @@ This policy explains what information the app handles, how it is used, and the c
 
 Depending on how you use the app, we may handle:
 
-- onboarding answers such as age range, height, weight, target weight, goal, motivation, workout style, experience, limitations, body focus, Pilates level, session length, weekly frequency, and progress focus;
+- onboarding answers such as age range, height, weight, target weight, goal, workout style, experience, body focus, and Pilates level;
 - workout progress, completed sessions, skipped sessions, and in-progress workout checkpoints;
 - subscription and purchase status, including whether Pro access is active or restored;
 - support messages you send to us;
@@ -90,7 +90,7 @@ You can:
 - delete the app to remove locally stored app data from your device;
 - manage subscriptions through your Apple account settings;
 - contact us if you want help understanding what the app stores locally;
-- review or update your onboarding answers by going through onboarding again in the app.
+- contact us if you have questions about the information stored on your device.
 
 ## Children
 

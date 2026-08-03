@@ -1,6 +1,6 @@
 # Terms of Use
 
-Effective date: July 28, 2026
+Effective date: August 3, 2026
 
 These Terms of Use govern your use of Pilates Weight Loss and any related services we provide through the app.
 

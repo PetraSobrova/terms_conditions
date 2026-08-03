@@ -1,6 +1,6 @@
 # Pilates Weight Loss legal pages
 
-Public Privacy Policy, Terms of Use, and Support pages for Home Pilates / Pilates Weight Loss.
+Public Privacy Policy, Terms of Use, and Support pages for Pilates Weight Loss.
 
 - [Privacy Policy (HTML)](privacy-policy.html)
 - [Terms of Use (HTML)](terms-of-use.html)
